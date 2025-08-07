@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Protodo</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #333; }
+        h2 { color: #555; margin-top: 30px; }
+        p { margin-bottom: 15px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Protodo</h1>
+    <p><strong>Effective Date:</strong> August 7, 2025</p>
+    <p><strong>Last Updated:</strong> August 7, 2025</p>
+
+    <h2>Introduction</h2>
+    <p>Protodo ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.</p>
+
+    <h2>Data Collection</h2>
+    <p>We do not collect, store, transmit, or share any personal information or user data. Protodo operates entirely offline and does not require an internet connection for its core functionality.</p>
+
+    <h2>Local Data Storage</h2>
+    <p>All your task data, categories, and app settings are stored locally on your device using:</p>
+    <ul>
+        <li>Device local storage</li>
+        <li>SQLite database (locally on your device)</li>
+    </ul>
+    <p>This data never leaves your device and is not accessible to us or any third parties.</p>
+
+    <h2>Analytics and Tracking</h2>
+    <p>We do not use any analytics services, tracking tools, or third-party services that collect user data.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>Protodo does not integrate with or share data with any third-party services.</p>
+
+    <h2>Permissions</h2>
+    <p>The app may request the following permissions for functionality:</p>
+    <ul>
+        <li><strong>Storage:</strong> To save your tasks and settings locally on your device</li>
+        <li><strong>Notifications:</strong> To remind you about tasks (if you enable this feature)</li>
+    </ul>
+
+    <h2>Children's Privacy</h2>
+    <p>Our app does not collect any information from anyone, including children under 13 years of age.</p>
+
+    <h2>Data Security</h2>
+    <p>Since all data remains on your device, the security of your information depends on your device's security settings.</p>
+
+    <h2>Changes to Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be reflected with an updated "Last Updated" date.</p>
+
+    <h2>Contact Information</h2>
+    <p>If you have questions about this Privacy Policy, please contact us at:</p>
+    <p>Email: aninitdev@gmail.com</p>
+
+    <h2>Data Deletion</h2>
+    <p>To delete all your data, simply uninstall the app from your device. All locally stored data will be removed.</p>
+</body>
+</html>
